@@ -386,6 +386,24 @@ figure {
   top: 0;
 }
 
+.sli {
+  display: inline-block;
+  margin-top:20px;
+}
+
+.slifb {
+  background-image: url(/personal/images/fb.svg);
+}
+.sliphone {
+  background-image: url(/personal/images/phone.svg);
+}
+.sliinst {
+  background-image: url(/personal/images/inst.svg);
+}
+.sliwt {
+  background-image: url(/personal/images/wt.svg);
+}
+
 #fh5co-footer {
   margin-top: 50px;
   background: black;
